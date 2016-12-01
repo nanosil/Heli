@@ -1,0 +1,83 @@
+Z:\PROGRAMMING class\heli\heli\bin\Debug\heli.exe
+Z:\PROGRAMMING class\heli\heli\bin\Debug\heli.pdb
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\heli.Form1.resources
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\heli.exe
+Z:\PROGRAMMING class\heli\heli\obj\x86\Debug\heli.pdb
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\heli.exe
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\heli.pdb
+C:\Users\silvaluisf\Desktop\heli\heli\bin\Debug\heli.exe
+C:\Users\silvaluisf\Desktop\heli\heli\bin\Debug\heli.pdb
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\heli.Form1.resources
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\silvaluisf\Desktop\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.exe
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.pdb
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\heli.exe
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\heli.pdb
+C:\Users\ro\Desktop\heli\heli\bin\Debug\heli.exe
+C:\Users\ro\Desktop\heli\heli\bin\Debug\heli.pdb
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\heli.Form1.resources
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\Desktop\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FERR\My Programs\heli\heli\bin\Debug\heli.exe
+G:\FERR\My Programs\heli\heli\bin\Debug\heli.pdb
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Form1.resources
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.exe
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.pdb
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.exe
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.pdb
+F:\FERR\My Programs\heli2\heli\bin\Debug\heli.exe
+F:\FERR\My Programs\heli2\heli\bin\Debug\heli.pdb
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.Form1.resources
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.Properties.Resources.resources
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FERR\My Programs\heli2\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.exe
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.pdb
+G:\FERR\My Programs\heli2\heli\bin\Debug\heli.exe
+G:\FERR\My Programs\heli2\heli\bin\Debug\heli.pdb
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.Form1.resources
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\heli.Properties.Resources.resources
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FERR\My Programs\heli2\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FERR\My Programs\heli\heli\bin\Debug\heli.exe
+F:\FERR\My Programs\heli\heli\bin\Debug\heli.pdb
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Form1.resources
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\heli.exe
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\heli.pdb
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Form1.resources
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\bin\Debug\heli.exe
+C:\Users\ro\SkyDrive\FERR\My Programs\heli\heli\bin\Debug\heli.pdb
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\heli.exe
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\heli.pdb
+O:\Ferr\My Programs\heli\heli\bin\Debug\heli.exe
+O:\Ferr\My Programs\heli\heli\bin\Debug\heli.pdb
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\heli.Form1.resources
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\heli.Properties.Resources.resources
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\Ferr\My Programs\heli\heli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fernando\OneDrive\FERR\My Programs\Heli\heli\obj\x86\Debug\heli.exe
+C:\Users\Fernando\OneDrive\FERR\My Programs\Heli\heli\obj\x86\Debug\heli.pdb
